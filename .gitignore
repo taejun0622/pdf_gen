@@ -1,3 +1,4 @@
-/.devcontainer/
-/.github/
+.devcontainer/
+.github/
 .DS_Store
+outputs/
